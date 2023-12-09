@@ -1,0 +1,13 @@
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\bin\Debug\Calc_HoXuanDai.exe.config
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\bin\Debug\Calc_HoXuanDai.exe
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\bin\Debug\Calc_HoXuanDai.pdb
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\obj\Debug\Calc_HoXuanDai.csproj.AssemblyReference.cache
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\obj\Debug\Calc_HoXuanDai.frmDai.resources
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\obj\Debug\Calc_HoXuanDai.Properties.Resources.resources
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\obj\Debug\Calc_HoXuanDai.csproj.GenerateResource.cache
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\obj\Debug\Calc_HoXuanDai.csproj.CoreCompileInputs.cache
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\obj\Debug\Calc_HoXuanDai.exe
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\obj\Debug\Calc_HoXuanDai.pdb
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\bin\Debug\FontAwesome.Sharp.dll
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\obj\Debug\Calc_HoXuanDai.csproj.CopyComplete
+D:\Study\Nam4_HK1\LapTrinhWindows\Calc_HoXuanDai\Calc_HoXuanDai\obj\Debug\Calc_HoXuanDai.history.resources
